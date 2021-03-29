@@ -1,0 +1,15 @@
+aniso8601 @ file:///home/musleh/.cache/pypoetry/artifacts/0a/9c/92/82a6aa47d71fa536cee866513d0fc26da7dfbda587e6348c63bd770641/aniso8601-7.0.0-py2.py3-none-any.whl
+asgiref @ file:///home/musleh/.cache/pypoetry/artifacts/0b/21/50/2bcd78e63f8be828de46e1a221f490604bd99b70edc7d49bfea5f2ff5b/asgiref-3.3.1-py3-none-any.whl
+Django @ file:///home/musleh/.cache/pypoetry/artifacts/7a/41/f7/c037d411b9f985a3a6a97136b7916a1b98d7522b0b1563152c85d0b647/Django-3.1.7-py3-none-any.whl
+django-graphiql @ file:///home/musleh/.cache/pypoetry/artifacts/d4/f6/70/8a969c49ae78ae239d22da89389c32645b7ee44e81859e1d645297ef03/django-graphiql-0.4.4.tar.gz
+graphene @ file:///home/musleh/.cache/pypoetry/artifacts/12/87/3d/c009dfa6e586989fb3d420bdd25b93ccf729a11c0c06d5b42500485346/graphene-2.1.8-py2.py3-none-any.whl
+graphene-django @ file:///home/musleh/.cache/pypoetry/artifacts/c0/e3/6c/df8de1b4223cb14742610c95230b2e3dd1bfe3382da28922cc43e25c30/graphene_django-2.15.0-py2.py3-none-any.whl
+graphql-core @ file:///home/musleh/.cache/pypoetry/artifacts/a5/84/fa/12b8e97a51b0decd7b77a0c2846fa936a17ea2a7f93f50af7ea1151fdf/graphql_core-2.3.2-py2.py3-none-any.whl
+graphql-relay @ file:///home/musleh/.cache/pypoetry/artifacts/bb/3d/a6/201a818409609e031dfe0a94b92ab59d8352cfac8f593a08b6646dff1e/graphql_relay-2.0.1-py3-none-any.whl
+promise @ file:///home/musleh/.cache/pypoetry/artifacts/0f/4f/91/54827555a9ce3597aca6d8a5ca3066e4cbdeb55dfc09e7dd69e113cec7/promise-2.3.tar.gz
+pytz @ file:///home/musleh/.cache/pypoetry/artifacts/19/50/c9/f8bffb0360052b3c85b912bc4172f824bc2571e24002806fb3a428302e/pytz-2021.1-py2.py3-none-any.whl
+Rx @ file:///home/musleh/.cache/pypoetry/artifacts/6a/c0/7f/d884f0dfc237072cc4cf7b7738abb4384f5e0de1db74cdab63c3e6c29b/Rx-1.6.1-py2.py3-none-any.whl
+singledispatch @ file:///home/musleh/.cache/pypoetry/artifacts/a0/2c/cc/b3db07c5e93917df2b3e2ddeccb6bc408ca8c563b49028450cb9a6bd64/singledispatch-3.6.1-py2.py3-none-any.whl
+six @ file:///home/musleh/.cache/pypoetry/artifacts/be/98/c7/69fe6fea7a59659af1c6260899226129565330b1e07c9c5b3769be76bf/six-1.15.0-py2.py3-none-any.whl
+sqlparse @ file:///home/musleh/.cache/pypoetry/artifacts/f6/9e/b8/b33d7ab31a08d0f94b260c990d807e12f38e0ffb105a4c2ca9ad9a6434/sqlparse-0.4.1-py3-none-any.whl
+text-unidecode @ file:///home/musleh/.cache/pypoetry/artifacts/9b/cc/f2/c615087594418f3b86c03fb83c56a1d3b673e89924d4bd0cece68a7615/text_unidecode-1.3-py2.py3-none-any.whl
